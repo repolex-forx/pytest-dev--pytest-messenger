@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-messenger",
+  "versions": [
+    {
+      "commit": "f91694959e7d53f2e52b2babb8e265d3c4cac0e6",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:11:22.962687+00:00"
+    }
+  ]
+}
